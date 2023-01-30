@@ -1,1 +1,1 @@
-# JS-101_Learning_Javascript
+This is my first day doing git-1 assignment.
