@@ -1,4 +1,4 @@
-// Given an array print the position (starting with 1) and the element in a single line.///////////
+// Given an array print the position (starting with 1) and the element in a single line.
 
 let ar1=["A","B","C","D","E","F"];
 for (let i=0;i<ar1.length;i++){
